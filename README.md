@@ -8,7 +8,9 @@ Escolha seu caminho e que a sorte sempre esteja ao seu lado.
 
 ## Aventuras
 
-> todo
+### Linguagens de Programação
+
+[JavaScript](caminhos/linguagens/javascript.md)
 
 ## License
 
