@@ -53,3 +53,9 @@ Não vá pensando que já terminou sua aventura, a princesa está [em outro cast
 [JavaScript.com](https://www.javascript.com/)
 
 [NodeSchool](http://nodeschool.io/)
+
+### Mantenha-se informado
+
+[BrazilJS](https://braziljs.org/blog/)
+
+[JS Rocks](http://jsrocks.org/)
