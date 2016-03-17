@@ -54,6 +54,8 @@ Não vá pensando que já terminou sua aventura, a princesa está [em outro cast
 
 [NodeSchool](http://nodeschool.io/)
 
+[JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ptbr/)
+
 ### Mantenha-se informado
 
 [BrazilJS](https://braziljs.org/blog/)
